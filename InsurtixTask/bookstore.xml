@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+  <book category="children">
+    <isbn>9051234567897</isbn>
+    <title>Harry Potter</title>
+    <author>J K. Rowling</author>
+    <year>2005</year>
+    <price>9.99</price>
+  </book>
+  <book category="web">
+    <isbn>9031234567897</isbn>
+    <title lang="en">XQuery Kick Start</title>
+    <author>James McGovern</author>
+    <author>Per Bothner</author>
+    <author>Kurt Cagle</author>
+    <author>James Linn</author>
+    <author>Vaidyanathan Nagarajan</author>
+    <year>2003</year>
+    <price>49.99</price>
+  </book>
+  <book category="web" cover="paperback">
+    <isbn>9043127323207</isbn>
+    <title lang="en">Learning XML</title>
+    <author>Erik T. Ray</author>
+    <year>2003</year>
+    <price>39.95</price>
+  </book>
+  <book category="music">
+    <isbn>9043127323217</isbn>
+    <title>Learning XML3</title>
+    <author>Eminem</author>
+    <year>2008</year>
+    <price>90.99</price>
+  </book>
+  <book category="music">
+    <isbn>90f7323217</isbn>
+    <title>Learning XMLff</title>
+    <author>Eminem</author>
+    <author>Rihanna</author>
+    <year>2008</year>
+    <price>90.99</price>
+  </book>
+  <book category="category">
+    <isbn>jfjfjuyfyju</isbn>
+    <title>book</title>
+    <author>author</author>
+    <year>1998</year>
+    <price>19.90</price>
+  </book>
+</bookstore>

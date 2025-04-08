@@ -1,0 +1,6 @@
+@InsurtixTask_HostAddress = http://localhost:5112
+
+GET {{InsurtixTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
